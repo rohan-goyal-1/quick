@@ -1,0 +1,16 @@
+!use "stdio"
+
+# example quik code
+
+~
+    the foo() method returns the sum of two numbers
+~
+int foo (int a, int b) {
+    return a + b;
+}
+
+print(foo(10, 5));
+
+string a = "hello world";
+
+float pi = 3.14;
